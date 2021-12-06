@@ -1,1 +1,7 @@
-export const ACTION_PREFIX = '@/template'
+export const SET_VALUE = 'SET_VALUE'
+export const ADD_VALUE = 'ADD_VALUE'
+export const REMOVE_VALUE = 'REMOVE_VALUE'
+export const SET_LOCALE = 'SET_LOCALE'
+export const ADD_HISTORY_VALUE = 'ADD_HISTORY_VALUE'
+export const CLEAR_HISTORY = 'CLEAR_HISTORY'
+export const SET_THEME = 'SET_THEME'
